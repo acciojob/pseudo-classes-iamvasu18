@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+:root{
+	background-color: rgb(135, 206, 235);
+}
+body p:nth-child(2){
+background-color:black;
+color:white;
+
+}
+
+body p:nth-child(5){
+color:red;
+}
+
+ul li:nth-child(1){
+background-color:white;
+}
+ul li:nth-child(2){
+background-color:gray;
+}
+ul li:nth-child(3){
+background-color:red;
+} 
+ul li:nth-child(4){
+background-color:gray;
+} 
+ul li:nth-child(5){
+background-color:white;
+}
