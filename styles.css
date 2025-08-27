@@ -2,13 +2,13 @@
 :root{
 	background-color: rgb(135, 206, 235);
 }
-body p:nth-child(2){
+body p:nth-child(1){
 background-color:black;
 color:white;
 
 }
 
-body p:nth-child(5){
+body p:nth-child(4){
 color:red;
 }
 
